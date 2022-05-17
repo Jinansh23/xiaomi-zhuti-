@@ -1,0 +1,625 @@
+<!DOCTYPE html>
+<html>
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app219.us.archive.org';v.server_ms=207;archive_analytics.send_pageview({});});</script>
+<script type="text/javascript" src="/_static/js/bundle-playback.js?v=36gO9Ebf" charset="utf-8"></script>
+<script type="text/javascript" src="/_static/js/wombat.js?v=UHAOicsW" charset="utf-8"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://zhuti.xiaomi.com/","20121016193456","https://web.archive.org/","web","/_static/",
+	      "1350416096");
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=fantwOh2" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+    
+
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>小米主题市场</title>
+    <link href="https://web.archive.org/web/20121016193456cs_/http://static.xiaomi.net/64957/css/miuimarket/global.css" rel="stylesheet"/>
+    <link href="https://web.archive.org/web/20121016193456cs_/http://static.xiaomi.net/62793/css/miuimarket/head.css" rel="stylesheet"/>
+    <link rel="shortcut icon" href="https://web.archive.org/web/20121016193456im_/http://www.miui.com/favicon.ico"/>
+    <script src="https://web.archive.org/web/20121016193456js_/http://static.xiaomi.net/47224/scripts/market/do.js"></script>
+    <script>
+    Do.define('rootPath','/');
+    Do.add('dialog',{path:'https://web.archive.org/web/20121016193456/http://static.xiaomi.net/48826/scripts/market/module/ui/dialog.js',type: 'js'});
+    </script>
+    <script src="https://web.archive.org/web/20121016193456js_/http://static.xiaomi.net/64684/scripts/market/theme/tools.js"></script>
+    <script>
+        Do.add('toggle', {path:'https://web.archive.org/web/20121016193456/http://static.xiaomi.net/48485/scripts/market/module/toggle.js', type:'js'});
+        Do.add('placeholder', {path:'https://web.archive.org/web/20121016193456/http://static.xiaomi.net/47224/scripts/market/module/widget/placeholder.js', type:'js'});
+        Do.add('lazyLoad', {path:'https://web.archive.org/web/20121016193456/http://static.xiaomi.net/48754/scripts/market/module/widget/lazyload.js', type:'js'});
+        Do.ready('lazyLoad', function () {
+            var lazyLoad = Do.require('Widget.lazyLoad');
+            lazyLoad($('#main img'), function () {
+                if (this.className == 'J_WPThumb') {
+                    Do.require('fixImgPosition')(this);
+                }
+            });
+        });
+    </script>
+</head>
+<body><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<style type="text/css">
+body {
+  margin-top:0 !important;
+  padding-top:0 !important;
+  /*min-width:800px !important;*/
+}
+</style>
+<script>__wm.rw(0);</script>
+<div id="wm-ipp-base" lang="en" style="display:none;direction:ltr;">
+<div id="wm-ipp" style="position:fixed;left:0;top:0;right:0;">
+<div id="donato" style="position:relative;width:100%;">
+  <div id="donato-base">
+    <iframe id="donato-if" src="https://archive.org/includes/donate.php?as_page=1&amp;platform=wb&amp;referer=https%3A//web.archive.org/web/20121016193456/http%3A//zhuti.xiaomi.com/"
+	    scrolling="no" frameborder="0" style="width:100%; height:100%">
+    </iframe>
+  </div>
+</div><div id="wm-ipp-inside">
+  <div id="wm-toolbar" style="position:relative;display:flex;flex-flow:row nowrap;justify-content:space-between;">
+    <div id="wm-logo" style="/*width:110px;*/padding-top:12px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/_static/images/toolbar/wayback-toolbar-logo-200.png" srcset="/_static/images/toolbar/wayback-toolbar-logo-100.png, /_static/images/toolbar/wayback-toolbar-logo-150.png 1.5x, /_static/images/toolbar/wayback-toolbar-logo-200.png 2x" alt="Wayback Machine" style="width:100px" border="0" /></a>
+    </div>
+    <div class="c" style="display:flex;flex-flow:column nowrap;justify-content:space-between;flex:1;">
+      <form class="u" style="display:flex;flex-direction:row;flex-wrap:nowrap;" target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://zhuti.xiaomi.com/" onfocus="this.focus();this.select();" style="flex:1;"/><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20121016193456" /><input type="submit" value="Go" />
+      </form>
+      <div style="display:flex;flex-flow:row nowrap;align-items:flex-end;">
+		<div class="s" id="wm-nav-captures">
+	  	  <a class="t" href="/web/20121016193456*/http://zhuti.xiaomi.com/" title="See a list of every capture for this URL">288 captures</a>
+	  <div class="r" title="Timespan for captures of this URL">28 Jul 2012 - 08 May 2022</div>
+	  </div>
+	<div class="k" style="flex:1;">
+	  <a href="" id="wm-graph-anchor">
+	    <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+	      <canvas id="wm-sparkline-canvas" width="675" height="27" border="0"></canvas>
+	    </div>
+	  </a>
+	</div>
+      </div>
+    </div>
+    <div class="n">
+      <table>
+	<tbody>
+	  <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+	  <tr class="m">
+	    <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20120809214903/http://zhuti.xiaomi.com:80/" title="09 Aug 2012"><strong>Aug</strong></a></td>
+	    <td class="c" id="displayMonthEl" title="You are here: 19:34:56 Oct 16, 2012">OCT</td>
+	    <td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20130116101846/http://zhuti.xiaomi.com/" title="16 Jan 2013"><strong>Jan</strong></a></td>
+	  </tr>
+	  <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+	  <tr class="d">
+	    <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20120922023038/http://zhuti.xiaomi.com:80/" title="02:30:38 Sep 22, 2012"><img src="/_static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+	    <td class="c" id="displayDayEl" style="width:34px;font-size:22px;white-space:nowrap;" title="You are here: 19:34:56 Oct 16, 2012">16</td>
+	    <td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20130116101846/http://zhuti.xiaomi.com/" title="10:18:46 Jan 16, 2013"><img src="/_static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a></td>
+	  </tr>
+	  <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+	  <tr class="y">
+	    <td class="b" nowrap="nowrap">2011</td>
+	    <td class="c" id="displayYearEl" title="You are here: 19:34:56 Oct 16, 2012">2012</td>
+	    <td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20131101075156/http://zhuti.xiaomi.com/" title="01 Nov 2013"><strong>2013</strong></a></td>
+	  </tr>
+	</tbody>
+      </table>
+    </div>
+    <div class="r" style="display:flex;flex-flow:column nowrap;align-items:flex-end;justify-content:space-between;">
+      <div id="wm-btns" style="text-align:right;height:23px;">
+        	<span class="xxs">
+          <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a id="wm-save-snapshot-open" href="#"
+	     title="Share via My Web Archive" >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php" title="Sign In" id="wm-sign-in">
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+	</span>
+        	<a class="xxs" href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id="wm-tb-close" href="#close" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" class="xxs">
+        <a href="/web/20121016193456/http://web.archive.org/screenshot/http://zhuti.xiaomi.com/"
+           id="wm-screenshot"
+           title="screenshot">
+          <span class="wm-icon-screen-shot"></span>
+        </a>
+        <a href="#" id="wm-video" title="video">
+          <span class="iconochive-movies"></span>
+        </a>
+	<a id="wm-share-facebook" href="#" data-url="https://web.archive.org/web/20121016193456/http://zhuti.xiaomi.com/" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+	<a id="wm-share-twitter" href="#" data-url="https://web.archive.org/web/20121016193456/http://zhuti.xiaomi.com/" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+      <div style="padding-right:2px;text-align:right;white-space:nowrap;">
+	<a id="wm-expand" class="wm-btn wm-closed" href="#expand" onclick="__wm.ex(event);return false;"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span class="xxs" style="font-size:80%;">About this capture</span></a>
+      </div>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+                    <div id="wm-capinfo-collected-by">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/webwidecrawl);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/webwidecrawl" target="_new"><span class="wm-title">Internet Archive</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  The Internet Archive discovers and captures web pages through many different web crawls.
+
+At any given time several distinct crawls are running, some for months, and some every day or longer.
+
+View the web archive through the <a href="http://archive.org/web/web.php">Wayback Machine</a>.
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/wide00006)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/wide00006" target="_new"><span class="wm-title">Wide Crawl started September 2012</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Web wide crawl with initial seedlist and crawler configuration from September 2012.
+	</div>
+	      </div>
+    </div>
+    </div>
+    <div id="wm-capinfo-timestamps">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/_static/images/loading.gif" alt="loading" /></div>
+    </div>
+    </div>
+  </div></div></div></div><div id="wm-ipp-print">The Wayback Machine - https://web.archive.org/web/20121016193456/http://zhuti.xiaomi.com/</div>
+<script type="text/javascript">//<![CDATA[
+__wm.bt(675,27,25,2,"web","http://zhuti.xiaomi.com/","20121016193456",1996,"/_static/",["/_static/css/banner-styles.css?v=fantwOh2","/_static/css/iconochive.css?v=qtvMKcIJ"], false);
+  __wm.rw(1);
+//]]></script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+<div id="wrapper">
+    <div id="header">
+        <div class="head">
+            <h1><a href="/web/20121016193456/http://zhuti.xiaomi.com/" class="logo">小米主题市场</a></h1>
+            <div class="site-nav">
+                <ul>
+                    <li class="selected"><a href="/web/20121016193456/http://zhuti.xiaomi.com/" class="theme"><b>主题</b></a></li>
+                    <li><a href="https://web.archive.org/web/20121016193456/http://app.xiaomi.com/" class="app"><b>应用</b></a></li>
+                </ul>
+            </div>
+            <div class="top_login">
+                <a href="/web/20121016193456/http://zhuti.xiaomi.com/login?referer=http%3A%2F%2Fzhuti.xiaomi.com%2F" id="J_Nologin">登录</a>
+            </div>
+        </div>
+    </div>
+    <div id="nav">
+        <div class="nav">
+            <div class="nav-main">
+                
+                <div class="mod theme-nav">
+                    <div class="bd">
+                        <a class="selected" href="/web/20121016193456/http://zhuti.xiaomi.com/"><b>主题首页</b></a>
+                        <a href="/web/20121016193456/http://zhuti.xiaomi.com/compound"><b>主题包</b></a>
+                        <a href="/web/20121016193456/http://zhuti.xiaomi.com/lockstyle"><b>百变锁屏</b></a>
+                        <a href="/web/20121016193456/http://zhuti.xiaomi.com/wallpaper"><b>壁纸</b></a>
+                        <a href="/web/20121016193456/http://zhuti.xiaomi.com/ringtone"><b>铃声</b></a>
+                        <a href="/web/20121016193456/http://zhuti.xiaomi.com/icon"><b>图标</b></a>
+                        <a href="/web/20121016193456/http://zhuti.xiaomi.com/font"><b>字体</b></a>
+                        <!-- <a href="#">更多<i>▼</i></a> -->
+                    </div>
+                </div>
+
+            </div>
+            <div class="nav-side">
+                
+                <div class="mod searchbox" id="J_SearchBox">
+                    <div class="bd">
+                        <form action="/web/20121016193456/http://zhuti.xiaomi.com/search" enctype="application/x-www-form-urlencoded" method="get">
+                            <label><input type="text" maxlength="100" placeholder="请输入关键字" name="keywords" value=""/></label>
+                            <label class="btn"><input type="submit" value="搜索"/></label>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="wrapper">
+        <div id="main">
+            <div class="main">
+                
+                
+                    
+                
+<div class="mod swf-gallery-box" id="J_gallery">
+    <div class="bd swf-gallery">
+        
+            
+            <div class="img">
+                <a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/95051174-fcda-480f-bbad-0703e7c0d816" target="_blank"><img src="https://web.archive.org/web/20121016193456im_/http://file.market.xiaomi.com/download/5f2/eaf192fcd2432a9e24d8b0a55e448d71d6852e38" alt="Origami"/></a>
+            </div>
+            <a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/95051174-fcda-480f-bbad-0703e7c0d816" class="thumb" title="Origami"><img src="https://web.archive.org/web/20121016193456im_/http://file.market.xiaomi.com/download/6ab/528937a1abeb137d1ccdf8f2612db9a3d8f6a5ea" alt="Origami"/></a>
+        
+            
+            <div class="img">
+                <a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/f73eec19-4600-42df-a2bb-1b1b392554ed" target="_blank"><img src="https://web.archive.org/web/20121016193456im_/http://file.market.xiaomi.com/download/7c8/9efaffcb48cee3390f0fa11475dce994193c106b" alt="来自安塞的邮票"/></a>
+            </div>
+            <a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/f73eec19-4600-42df-a2bb-1b1b392554ed" class="thumb" title="来自安塞的邮票"><img src="https://web.archive.org/web/20121016193456im_/http://file.market.xiaomi.com/download/fd7/529681da579baf358350e6bffa777fb5e5a30646" alt="来自安塞的邮票"/></a>
+        
+            
+            <div class="img">
+                <a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/c4e850ca-b899-4a18-9add-31c2ba6887e1" target="_blank"><img src="https://web.archive.org/web/20121016193456im_/http://file.market.xiaomi.com/download/7c1/aead62cba177ea6b1d997bd075550e0b558d7bfb" alt="MIAUN"/></a>
+            </div>
+            <a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/c4e850ca-b899-4a18-9add-31c2ba6887e1" class="thumb" title="MIAUN"><img src="https://web.archive.org/web/20121016193456im_/http://file.market.xiaomi.com/download/d9d/a9e38993fd361038f4422bbcdcd96b5d0cfe25ca" alt="MIAUN"/></a>
+        
+            
+            <div class="img">
+                <a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/97ef49ca-846f-4b38-80a9-a9fc04ffee1c" target="_blank"><img src="https://web.archive.org/web/20121016193456im_/http://file.market.xiaomi.com/download/13b/5d166b33bb11488b0af6893d1d495714712f1d54" alt="牛仔布料"/></a>
+            </div>
+            <a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/97ef49ca-846f-4b38-80a9-a9fc04ffee1c" class="thumb" title="牛仔布料"><img src="https://web.archive.org/web/20121016193456im_/http://file.market.xiaomi.com/download/6c3/4f3a39c7b3069b9899c07e516c49cb0077ddc545" alt="牛仔布料"/></a>
+        
+    </div>
+</div>
+<script>
+    (function(){
+        var init = Do.require('gallery');
+        init();
+    })();
+</script>
+                
+                
+                    
+                    
+                    
+                    
+                
+                <div class="mod m-list">
+                    <div class="hd">
+                        <h3>主题包</h3>
+                        <a href="/web/20121016193456/http://zhuti.xiaomi.com/compound" class="more">查看全部 <b>&gt;</b></a>
+                    </div>
+                    <div class="bd">
+                        <ul class="thumb-list">
+                            <li>
+                                <div class="thumb">
+                                    <a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/2d464862-151e-40aa-b7f4-c3aca39b1281" title="舌尖上的小米"><b><img data-src="https://web.archive.org/web/20121016193456/http://file.market.xiaomi.com/thumbnail/jpeg/w118/0d6/1c5474d25655ced83a45ad050160712826d5b5ab" src="https://web.archive.org/web/20121016193456im_/http://resource.xiaomi.net/miuimarket/lazyload.png" alt="舌尖上的小米"/></b></a>
+                                </div>
+                                <div class="title"><a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/2d464862-151e-40aa-b7f4-c3aca39b1281" title="舌尖上的小米">舌尖上的小米</a></div>
+                            </li>
+                            <li>
+                                <div class="thumb">
+                                    <a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/ff802f7c-da9c-4eab-9210-c8ff2c8dead2" title="Simple"><b><img data-src="https://web.archive.org/web/20121016193456/http://file.market.xiaomi.com/thumbnail/jpeg/w118/c8a/37d3738d0a5db716a33d2d54c02f448877867a6d" src="https://web.archive.org/web/20121016193456im_/http://resource.xiaomi.net/miuimarket/lazyload.png" alt="Simple"/></b></a>
+                                </div>
+                                <div class="title"><a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/ff802f7c-da9c-4eab-9210-c8ff2c8dead2" title="Simple">Simple</a></div>
+                            </li>
+                            <li>
+                                <div class="thumb">
+                                    <a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/f79e7e04-5593-4360-bae3-3c46256d1c0b" title="BOOM V4版"><b><img data-src="https://web.archive.org/web/20121016193456/http://file.market.xiaomi.com/thumbnail/jpeg/w118/6c9/666be2ca0913144598aa24ef6df86655c8ae634c" src="https://web.archive.org/web/20121016193456im_/http://resource.xiaomi.net/miuimarket/lazyload.png" alt="BOOM V4版"/></b></a>
+                                </div>
+                                <div class="title"><a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/f79e7e04-5593-4360-bae3-3c46256d1c0b" title="BOOM V4版">BOOM V4版</a></div>
+                            </li>
+                            <li>
+                                <div class="thumb">
+                                    <a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/6ea6c27b-e3da-48cd-9532-01da5bea2360" title="INDIGOTIN"><b><img data-src="https://web.archive.org/web/20121016193456/http://file.market.xiaomi.com/thumbnail/jpeg/w118/781/a614018dd1e644b92e6c4ba974fd2670d5db193e" src="https://web.archive.org/web/20121016193456im_/http://resource.xiaomi.net/miuimarket/lazyload.png" alt="INDIGOTIN"/></b></a>
+                                </div>
+                                <div class="title"><a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/6ea6c27b-e3da-48cd-9532-01da5bea2360" title="INDIGOTIN">INDIGOTIN</a></div>
+                            </li>
+                            <li>
+                                <div class="thumb">
+                                    <a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/95051174-fcda-480f-bbad-0703e7c0d816" title="Origami"><b><img data-src="https://web.archive.org/web/20121016193456/http://file.market.xiaomi.com/thumbnail/jpeg/w118/14a/3f298a4baa07a0e5c8c331701a3d0c6d7db2404b" src="https://web.archive.org/web/20121016193456im_/http://resource.xiaomi.net/miuimarket/lazyload.png" alt="Origami"/></b></a>
+                                </div>
+                                <div class="title"><a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/95051174-fcda-480f-bbad-0703e7c0d816" title="Origami">Origami</a></div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                
+                    
+                    
+                    
+                    
+                
+                <div class="mod m-list">
+                    <div class="hd">
+                        <h3>锁屏</h3>
+                        <a href="/web/20121016193456/http://zhuti.xiaomi.com/lockstyle" class="more">查看全部 <b>&gt;</b></a>
+                    </div>
+                    <div class="bd">
+                        <ul class="thumb-list">
+                            <li>
+                                <div class="thumb">
+                                    <a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/1719030a-526c-4195-8a4f-3ab69ede88d7" title="长按解锁"><b><img data-src="https://web.archive.org/web/20121016193456/http://file.market.xiaomi.com/thumbnail/jpeg/w118/6c2/e7f4fcc9326c5bc857c06ff868de5de81b519c71" src="https://web.archive.org/web/20121016193456im_/http://resource.xiaomi.net/miuimarket/lazyload.png" alt="长按解锁"/></b></a>
+                                </div>
+                                <div class="title"><a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/1719030a-526c-4195-8a4f-3ab69ede88d7" title="长按解锁">长按解锁</a></div>
+                            </li>
+                            <li>
+                                <div class="thumb">
+                                    <a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/0c68e3c2-79fa-46ff-8b32-ff2a4d3aceea" title="弹钢琴解锁"><b><img data-src="https://web.archive.org/web/20121016193456/http://file.market.xiaomi.com/thumbnail/jpeg/w118/b2b/08308220db9742c7f6aaa460b32df1b4926c1a1c" src="https://web.archive.org/web/20121016193456im_/http://resource.xiaomi.net/miuimarket/lazyload.png" alt="弹钢琴解锁"/></b></a>
+                                </div>
+                                <div class="title"><a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/0c68e3c2-79fa-46ff-8b32-ff2a4d3aceea" title="弹钢琴解锁">弹钢琴解锁</a></div>
+                            </li>
+                            <li>
+                                <div class="thumb">
+                                    <a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/f3a4bc63-3324-45a8-8907-29a364baeb61" title="指尖上的钢琴曲"><b><img data-src="https://web.archive.org/web/20121016193456/http://file.market.xiaomi.com/thumbnail/jpeg/w118/b9a/d60052967a534cedcf22c9d5b90e09e2da8f551f" src="https://web.archive.org/web/20121016193456im_/http://resource.xiaomi.net/miuimarket/lazyload.png" alt="指尖上的钢琴曲"/></b></a>
+                                </div>
+                                <div class="title"><a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/f3a4bc63-3324-45a8-8907-29a364baeb61" title="指尖上的钢琴曲">指尖上的钢琴曲</a></div>
+                            </li>
+                            <li>
+                                <div class="thumb">
+                                    <a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/dfcfcd08-99fd-46a4-8201-f06015d06c21" title="cma2"><b><img data-src="https://web.archive.org/web/20121016193456/http://file.market.xiaomi.com/thumbnail/jpeg/w118/c45/603ad64fd5cd50de707011d0ccdb5732beac802c" src="https://web.archive.org/web/20121016193456im_/http://resource.xiaomi.net/miuimarket/lazyload.png" alt="cma2"/></b></a>
+                                </div>
+                                <div class="title"><a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/dfcfcd08-99fd-46a4-8201-f06015d06c21" title="cma2">cma2</a></div>
+                            </li>
+                            <li>
+                                <div class="thumb">
+                                    <a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/51e09a88-9f06-41c2-863a-d1fe19d0cb64" title="清新无极限"><b><img data-src="https://web.archive.org/web/20121016193456/http://file.market.xiaomi.com/thumbnail/jpeg/w118/a1c/37c1511f3c46765e0ff29bf7a16a3b00acedc6a7" src="https://web.archive.org/web/20121016193456im_/http://resource.xiaomi.net/miuimarket/lazyload.png" alt="清新无极限"/></b></a>
+                                </div>
+                                <div class="title"><a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/51e09a88-9f06-41c2-863a-d1fe19d0cb64" title="清新无极限">清新无极限</a></div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                
+<div class="mod m-list" id="J_Wallpapers">
+    <div class="hd">
+        <h3>壁纸</h3>
+        <a href="/web/20121016193456/http://zhuti.xiaomi.com/wallpaper" class="more">查看全部 <b>&gt;</b></a>
+    </div>
+    <div class="bd">
+        <ul class="thumb-list wallpaper-list">
+            <li>
+                <div class="thumb">
+                    <a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/wallpaper?sort=New#page=1&amp;id=710bed09-532c-4d1f-855b-44a11f44baba" title="飘落的枫叶"><b><img class="J_WPThumb" data-src="https://web.archive.org/web/20121016193456/http://file.market.xiaomi.com/thumbnail/jpeg/h160/0f8/47bab9f3d807f37622529b890e9d9732cfafb888" src="https://web.archive.org/web/20121016193456im_/http://resource.xiaomi.net/miuimarket/lazyload.png" alt="飘落的枫叶"/></b></a>
+                </div>
+            </li>
+            <li>
+                <div class="thumb">
+                    <a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/wallpaper?sort=New#page=1&amp;id=6b3004d8-8af3-4414-a61e-88367a7a1770" title="幻影湖水"><b><img class="J_WPThumb" data-src="https://web.archive.org/web/20121016193456/http://file.market.xiaomi.com/thumbnail/jpeg/h160/7cc/63d5e1c5ec543c6fb463d596782d0e3872633f4a" src="https://web.archive.org/web/20121016193456im_/http://resource.xiaomi.net/miuimarket/lazyload.png" alt="幻影湖水"/></b></a>
+                </div>
+            </li>
+            <li>
+                <div class="thumb">
+                    <a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/wallpaper?sort=New#page=1&amp;id=50339c5b-e512-455b-a5c5-ddf6c620685a" title="一支桃花"><b><img class="J_WPThumb" data-src="https://web.archive.org/web/20121016193456/http://file.market.xiaomi.com/thumbnail/jpeg/h160/db7/aaf26abc67dca272c09f0b2fd5301b6fb82ea16a" src="https://web.archive.org/web/20121016193456im_/http://resource.xiaomi.net/miuimarket/lazyload.png" alt="一支桃花"/></b></a>
+                </div>
+            </li>
+            <li>
+                <div class="thumb">
+                    <a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/wallpaper?sort=New#page=1&amp;id=53b63aa8-5e8a-4cc7-ba9b-beb161c81bac" title="秋色~风车"><b><img class="J_WPThumb" data-src="https://web.archive.org/web/20121016193456/http://file.market.xiaomi.com/thumbnail/jpeg/h160/0ed/93aa4fee1d00146ba76ce592053b155323c5dd16" src="https://web.archive.org/web/20121016193456im_/http://resource.xiaomi.net/miuimarket/lazyload.png" alt="秋色~风车"/></b></a>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+                
+                    
+                    
+                    
+                    
+                
+                <div class="mod m-list">
+                    <div class="hd">
+                        <h3>图标</h3>
+                        <a href="/web/20121016193456/http://zhuti.xiaomi.com/icon" class="more">查看全部 <b>&gt;</b></a>
+                    </div>
+                    <div class="bd">
+                        <ul class="thumb-list icon-list">
+                            <li>
+                                <div class="thumb">
+                                    <a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/3b47a9b1-de4c-4c27-bf06-b3488782b4ba" title="牛仔布料"><b><img data-src="https://web.archive.org/web/20121016193456/http://file.market.xiaomi.com/thumbnail/jpeg/w218/12a/77f01a28cad9c3ab55255c96138655af7f65e545" src="https://web.archive.org/web/20121016193456im_/http://resource.xiaomi.net/miuimarket/lazyload.png" alt="牛仔布料"/></b></a>
+                                </div>
+                                <div class="title"><a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/3b47a9b1-de4c-4c27-bf06-b3488782b4ba" title="牛仔布料">牛仔布料</a></div>
+                            </li>
+                            <li>
+                                <div class="thumb">
+                                    <a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/be16f60c-d983-49a7-813c-c189e28f1cdb" title="变3-混合版"><b><img data-src="https://web.archive.org/web/20121016193456/http://file.market.xiaomi.com/thumbnail/jpeg/w218/6ca/7353e2c99a45b17675fbc16d6b440377d08c524d" src="https://web.archive.org/web/20121016193456im_/http://resource.xiaomi.net/miuimarket/lazyload.png" alt="变3-混合版"/></b></a>
+                                </div>
+                                <div class="title"><a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/be16f60c-d983-49a7-813c-c189e28f1cdb" title="变3-混合版">变3-混合版</a></div>
+                            </li>
+                            <li>
+                                <div class="thumb">
+                                    <a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/f365de40-566c-4772-b952-c8f9a331eafa" title="蓝色水晶"><b><img data-src="https://web.archive.org/web/20121016193456/http://file.market.xiaomi.com/thumbnail/jpeg/w218/fc8/a1df77c4a8a48f8e29aaea32f1cd1f07351786f2" src="https://web.archive.org/web/20121016193456im_/http://resource.xiaomi.net/miuimarket/lazyload.png" alt="蓝色水晶"/></b></a>
+                                </div>
+                                <div class="title"><a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/f365de40-566c-4772-b952-c8f9a331eafa" title="蓝色水晶">蓝色水晶</a></div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                
+                    
+                    
+                    
+                    
+                
+                <div class="mod m-list">
+                    <div class="hd">
+                        <h3>字体</h3>
+                        <a href="/web/20121016193456/http://zhuti.xiaomi.com/font" class="more">查看全部 <b>&gt;</b></a>
+                    </div>
+                    <div class="bd">
+                        <ul class="thumb-list font-list">
+                            <li>
+                                <div class="thumb">
+                                    <a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/ea79ed9a-41a3-409f-9443-18effc1605b8" title="MIUI V4"><b><img data-src="https://web.archive.org/web/20121016193456/http://file.market.xiaomi.com/thumbnail/jpeg/w118/564/8f87b967642ab00a839175ec58eddc87f64ac89d" src="https://web.archive.org/web/20121016193456im_/http://resource.xiaomi.net/miuimarket/lazyload.png" alt="MIUI V4"/></b></a>
+                                </div>
+                                <div class="title"><a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/ea79ed9a-41a3-409f-9443-18effc1605b8" title="MIUI V4">MIUI V4</a></div>
+                            </li>
+                            <li>
+                                <div class="thumb">
+                                    <a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/143255f5-f113-4b3e-addf-f4fc507c8c6a" title="Black Ice 2.3"><b><img data-src="https://web.archive.org/web/20121016193456/http://file.market.xiaomi.com/thumbnail/jpeg/w118/49e/46b1249d7e46560da8a3993a40e2dff11443e03a" src="https://web.archive.org/web/20121016193456im_/http://resource.xiaomi.net/miuimarket/lazyload.png" alt="Black Ice 2.3"/></b></a>
+                                </div>
+                                <div class="title"><a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/143255f5-f113-4b3e-addf-f4fc507c8c6a" title="Black Ice 2.3">Black Ice 2.3</a></div>
+                            </li>
+                            <li>
+                                <div class="thumb">
+                                    <a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/7dc5fcd9-a479-4347-996e-08a5f6fb361b" title="Cloud Sky"><b><img data-src="https://web.archive.org/web/20121016193456/http://file.market.xiaomi.com/thumbnail/jpeg/w118/b05/522a3e0d05517e11474b5385b5a88770828c2669" src="https://web.archive.org/web/20121016193456im_/http://resource.xiaomi.net/miuimarket/lazyload.png" alt="Cloud Sky"/></b></a>
+                                </div>
+                                <div class="title"><a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/7dc5fcd9-a479-4347-996e-08a5f6fb361b" title="Cloud Sky">Cloud Sky</a></div>
+                            </li>
+                            <li>
+                                <div class="thumb">
+                                    <a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/16c0743a-f377-4a6e-a471-7c09490672b5" title="水墨"><b><img data-src="https://web.archive.org/web/20121016193456/http://file.market.xiaomi.com/thumbnail/jpeg/w118/636/f4cf8a39e64a07dc2bee0d8a6955f52e14fe7b23" src="https://web.archive.org/web/20121016193456im_/http://resource.xiaomi.net/miuimarket/lazyload.png" alt="水墨"/></b></a>
+                                </div>
+                                <div class="title"><a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/16c0743a-f377-4a6e-a471-7c09490672b5" title="水墨">水墨</a></div>
+                            </li>
+                            <li>
+                                <div class="thumb">
+                                    <a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/754f587c-0ff8-4c10-bcdc-a656618dd347" title="拼贴旧时光"><b><img data-src="https://web.archive.org/web/20121016193456/http://file.market.xiaomi.com/thumbnail/jpeg/w118/549/01935b48992870b49986dc005822f628c6591712" src="https://web.archive.org/web/20121016193456im_/http://resource.xiaomi.net/miuimarket/lazyload.png" alt="拼贴旧时光"/></b></a>
+                                </div>
+                                <div class="title"><a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/754f587c-0ff8-4c10-bcdc-a656618dd347" title="拼贴旧时光">拼贴旧时光</a></div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="sidebar">
+            <div class="sidebar">
+                
+                    
+                    
+                    
+                    
+                    
+                
+                <div class="mod toplist J_TopList" id="J_Toplist">
+                    <div class="hd"><h3>壁纸排行</h3></div>
+                    <div class="bd">
+                        <ol>
+                            <li class="highlight selected">
+                                <b class="serial-num">1</b>
+                                <div class="title"><a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/wallpaper?sort=Hot#page=1&amp;id=de4a07f9-3628-48e9-9bf7-e1160fb876b3" title="璀璨">璀璨</a></div>
+                                <div class="thumb thumb-wallpaper">
+                                    <a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/wallpaper?sort=Hot#page=1&amp;id=de4a07f9-3628-48e9-9bf7-e1160fb876b3" title="璀璨"><b><img data-src="https://web.archive.org/web/20121016193456/http://file.market.xiaomi.com/thumbnail/jpeg/w242/704/b35475005465ba4ce8954ac470f6635628f188c5" src="https://web.archive.org/web/20121016193456im_/http://resource.xiaomi.net/miuimarket/lazyload.png" alt="璀璨"/></b></a>
+                                </div>
+                            </li>
+                            <li class="highlight">
+                                <b class="serial-num">2</b>
+                                <div class="title"><a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/wallpaper?sort=Hot#page=1&amp;id=ffd49478-4708-44a7-b292-c987db547bd8" title="清新海边">清新海边</a></div>
+                                <div class="thumb thumb-wallpaper">
+                                    <a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/wallpaper?sort=Hot#page=1&amp;id=ffd49478-4708-44a7-b292-c987db547bd8" title="清新海边"><b><img data-src="https://web.archive.org/web/20121016193456/http://file.market.xiaomi.com/thumbnail/jpeg/w242/bfc/af1b9bf1bcaa80b6da7f8cfebc543e2e18e20e2d" src="https://web.archive.org/web/20121016193456im_/http://resource.xiaomi.net/miuimarket/lazyload.png" alt="清新海边"/></b></a>
+                                </div>
+                            </li>
+                            <li class="highlight">
+                                <b class="serial-num">3</b>
+                                <div class="title"><a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/wallpaper?sort=Hot#page=1&amp;id=ae78407c-7eb4-43f7-823e-c13a1d369732" title="墨色海岸">墨色海岸</a></div>
+                                <div class="thumb thumb-wallpaper">
+                                    <a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/wallpaper?sort=Hot#page=1&amp;id=ae78407c-7eb4-43f7-823e-c13a1d369732" title="墨色海岸"><b><img data-src="https://web.archive.org/web/20121016193456/http://file.market.xiaomi.com/thumbnail/jpeg/w242/fab/205532a97ba6728996254784feacf02c88f9f79f" src="https://web.archive.org/web/20121016193456im_/http://resource.xiaomi.net/miuimarket/lazyload.png" alt="墨色海岸"/></b></a>
+                                </div>
+                            </li>
+                            <li>
+                                <b class="serial-num">4</b>
+                                <div class="title"><a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/wallpaper?sort=Hot#page=1&amp;id=0c24e4f1-cfe9-48d4-88ec-384358f45636" title="晚间湖景">晚间湖景</a></div>
+                                <div class="thumb thumb-wallpaper">
+                                    <a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/wallpaper?sort=Hot#page=1&amp;id=0c24e4f1-cfe9-48d4-88ec-384358f45636" title="晚间湖景"><b><img data-src="https://web.archive.org/web/20121016193456/http://file.market.xiaomi.com/thumbnail/jpeg/w242/0b0/0fb0e2b9e08c54603df8bc0e0cf3651bc676e76d" src="https://web.archive.org/web/20121016193456im_/http://resource.xiaomi.net/miuimarket/lazyload.png" alt="晚间湖景"/></b></a>
+                                </div>
+                            </li>
+                            <li>
+                                <b class="serial-num">5</b>
+                                <div class="title"><a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/wallpaper?sort=Hot#page=1&amp;id=31303496-3e55-4fac-9bf5-22d4c144a61c" title="溅起的水滴">溅起的水滴</a></div>
+                                <div class="thumb thumb-wallpaper">
+                                    <a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/wallpaper?sort=Hot#page=1&amp;id=31303496-3e55-4fac-9bf5-22d4c144a61c" title="溅起的水滴"><b><img data-src="https://web.archive.org/web/20121016193456/http://file.market.xiaomi.com/thumbnail/jpeg/w242/458/6a9d0050082a513332a9a3c044ac14afc51427bc" src="https://web.archive.org/web/20121016193456im_/http://resource.xiaomi.net/miuimarket/lazyload.png" alt="溅起的水滴"/></b></a>
+                                </div>
+                            </li>
+                            <li>
+                                <b class="serial-num">6</b>
+                                <div class="title"><a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/wallpaper?sort=Hot#page=1&amp;id=902c94f5-f439-4139-b1ac-2001ac1c6be0" title="卡通沙漏">卡通沙漏</a></div>
+                                <div class="thumb thumb-wallpaper">
+                                    <a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/wallpaper?sort=Hot#page=1&amp;id=902c94f5-f439-4139-b1ac-2001ac1c6be0" title="卡通沙漏"><b><img data-src="https://web.archive.org/web/20121016193456/http://file.market.xiaomi.com/thumbnail/jpeg/w242/872/3f5c7176420f61244632a4318b0d7f3eeb67b5b3" src="https://web.archive.org/web/20121016193456im_/http://resource.xiaomi.net/miuimarket/lazyload.png" alt="卡通沙漏"/></b></a>
+                                </div>
+                            </li>
+                            <li>
+                                <b class="serial-num">7</b>
+                                <div class="title"><a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/wallpaper?sort=Hot#page=1&amp;id=6bb846d6-cec4-4277-8188-9c467ce5d3be" title="创意帆布鞋">创意帆布鞋</a></div>
+                                <div class="thumb thumb-wallpaper">
+                                    <a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/wallpaper?sort=Hot#page=1&amp;id=6bb846d6-cec4-4277-8188-9c467ce5d3be" title="创意帆布鞋"><b><img data-src="https://web.archive.org/web/20121016193456/http://file.market.xiaomi.com/thumbnail/jpeg/w242/028/b29033233829b3bd75793dab0817757b699eaf52" src="https://web.archive.org/web/20121016193456im_/http://resource.xiaomi.net/miuimarket/lazyload.png" alt="创意帆布鞋"/></b></a>
+                                </div>
+                            </li>
+                            <li>
+                                <b class="serial-num">8</b>
+                                <div class="title"><a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/wallpaper?sort=Hot#page=1&amp;id=93b3f476-05a6-49f4-b378-2e2c60b5d8c4" title="黄土蓝天">黄土蓝天</a></div>
+                                <div class="thumb thumb-wallpaper">
+                                    <a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/wallpaper?sort=Hot#page=1&amp;id=93b3f476-05a6-49f4-b378-2e2c60b5d8c4" title="黄土蓝天"><b><img data-src="https://web.archive.org/web/20121016193456/http://file.market.xiaomi.com/thumbnail/jpeg/w242/996/fde82496f67dcb7c43d7f4829d3c185387871250" src="https://web.archive.org/web/20121016193456im_/http://resource.xiaomi.net/miuimarket/lazyload.png" alt="黄土蓝天"/></b></a>
+                                </div>
+                            </li>
+                            <li>
+                                <b class="serial-num">9</b>
+                                <div class="title"><a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/wallpaper?sort=Hot#page=1&amp;id=3dff98d8-c4e9-402d-bd83-bece891153d9" title="那时的天空">那时的天空</a></div>
+                                <div class="thumb thumb-wallpaper">
+                                    <a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/wallpaper?sort=Hot#page=1&amp;id=3dff98d8-c4e9-402d-bd83-bece891153d9" title="那时的天空"><b><img data-src="https://web.archive.org/web/20121016193456/http://file.market.xiaomi.com/thumbnail/jpeg/w242/570/ef25787df0ee934c3a738aa95bc2dd975ffafc39" src="https://web.archive.org/web/20121016193456im_/http://resource.xiaomi.net/miuimarket/lazyload.png" alt="那时的天空"/></b></a>
+                                </div>
+                            </li>
+                            <li>
+                                <b class="serial-num">10</b>
+                                <div class="title"><a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/wallpaper?sort=Hot#page=1&amp;id=1ac77051-983e-4990-9315-d042a4aa3a53" title="水滴">水滴</a></div>
+                                <div class="thumb thumb-wallpaper">
+                                    <a href="/web/20121016193456/http://zhuti.xiaomi.com/detail/wallpaper?sort=Hot#page=1&amp;id=1ac77051-983e-4990-9315-d042a4aa3a53" title="水滴"><b><img data-src="https://web.archive.org/web/20121016193456/http://file.market.xiaomi.com/thumbnail/jpeg/w242/6d3/5318e6d873bbfef0a916a4e16aba1d8c39f9cf36" src="https://web.archive.org/web/20121016193456im_/http://resource.xiaomi.net/miuimarket/lazyload.png" alt="水滴"/></b></a>
+                                </div>
+                            </li>
+                        </ol>
+                    </div>
+                </div>
+                <script>
+                    (function () {
+                        var init = Do.require('topListInit');
+                        init('J_Toplist', 'wp');
+                    })();
+                </script>
+            </div>
+        </div>
+    </div>
+    <div id="footer">
+  <p>
+    <a href="https://web.archive.org/web/20121016193456/http://www.xiaomi.com/" target="_blank">小米旗下网站</a> - 
+    <a href="https://web.archive.org/web/20121016193456/http://www.miui.com/" target="_blank">MIUI官方网站</a> - 
+    <a href="https://web.archive.org/web/20121016193456/http://www.miliao.com/" target="_blank">米聊</a>
+  </p>
+  <p>MIUI.com All Rights Reserved 2012</p>
+</div>
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-32956769-1']);
+            _gaq.push(['_addOrganic', 'baidu', 'word']);
+            _gaq.push(['_addOrganic', 'soso', 'w']);
+            _gaq.push(['_addOrganic', 'vnet', 'kw']);
+            _gaq.push(['_addOrganic', 'sogou', 'query']);
+            _gaq.push(['_addOrganic', 'youdao', 'q']);
+            _gaq.push(['_addIgnoredOrganic', 'market.xiaomi.com']);
+            _gaq.push(['_addIgnoredOrganic', 'app.xiaomi.com']);
+            _gaq.push(['_addIgnoredOrganic', 'zhuti.xiaomi.com']);
+            _gaq.push(['_setDomainName', 'xiaomi.com']);
+            _gaq.push(['_trackPageview']);
+            (function() {
+                var src = ('https:' == document.location.protocol ? 'https://web.archive.org/web/20121016193456/https://ssl' : 'https://web.archive.org/web/20121016193456/http://www') + '.google-analytics.com/ga.js';
+                Do(src);
+            })();
+        </script>
+</div>
+</body>
+</html><!--
+     FILE ARCHIVED ON 19:34:56 Oct 16, 2012 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 09:36:39 May 17, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 118.161
+  exclusion.robots: 0.204
+  exclusion.robots.policy: 0.197
+  cdx.remote: 0.068
+  esindex: 0.01
+  LoadShardBlock: 70.775 (3)
+  PetaboxLoader3.datanode: 78.829 (4)
+  CDXLines.iter: 22.382 (3)
+  load_resource: 77.501
+  PetaboxLoader3.resolve: 41.556
+-->
